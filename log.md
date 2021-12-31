@@ -29,4 +29,7 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
 
+### Day 0: December 30, 2021
+** Today's progress**: I learn about the basic of html and what heading 1 - 6 do.
 
+** Thoughs**: I remember doing this in High School but it feels good to re-learn some thing and actially understand what i am doing.  
