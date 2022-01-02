@@ -33,3 +33,8 @@
 ** Today's progress**: I learn about the basic of html and what heading 1 - 6 do.
 
 ** Thoughs**: I remember doing this in High School but it feels good to re-learn some thing and actially understand what i am doing.  
+
+### Day 1: January 2, 2022
+** Today's progress**: I learn ho to put images in the html file and how to make internal links.
+
+** Thoughs**: Its crazy how you can do so much with just some tags.
