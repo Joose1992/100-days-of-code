@@ -41,4 +41,5 @@
 
 ### Day 2: January 3, 2022
 ** Today's progress**: I finish the basics of html and start writing some css.
+
 ** Thoughts**: i really like css i really though is was harder but i am really enjoing it.
