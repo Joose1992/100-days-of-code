@@ -38,3 +38,7 @@
 ** Today's progress**: I learn ho to put images in the html file and how to make internal links.
 
 ** Thoughs**: Its crazy how you can do so much with just some tags.
+
+### Day 2: January 3, 2022
+** Today's progress**: I finish the basics of html and start writing some css.
+** Thoughts**: i really like css i really though is was harder but i am really enjoing it.
