@@ -43,3 +43,8 @@
 ** Today's progress**: I finish the basics of html and start writing some css.
 
 ** Thoughts**: i really like css i really though is was harder but i am really enjoing it.
+
+## Day 3: January 4, 2022
+** Today's Progress**: i been learning about css and variables.
+
+** Thoughs**: It's been great and challenging at the same time.
